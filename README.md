@@ -8,7 +8,7 @@ Tại nước ta, tình trạng mất cân bằng sinh thái đang có những d
 
 - Đánh bắt thủy sản thiếu bền vững, săn bắn động vật hoang dã trái phép tràn lan.
 
-- Tình trạn lũ lụt và hạn hán ngày càng nghiêm trọng, đời sống con người và động vật đều khó khăn.
+- Tình trạng lũ lụt và hạn hán ngày càng nghiêm trọng, đời sống con người và động vật đều khó khăn.
 
 - Dấu chân sinh thái của Việt Nam đã tăng lên đáng kể trong những năm gần đây, từ `1,0 gha/đầu người` năm 2000 tới `1,4 gha/đầu người` năm 2012 và `1,62 gha/đầu người` năm 2014. Xu hướng này chắc chắn sẽ tiếp tục tăng lên nếu không có những giải pháp thích hợp. ( **Dấu chân sinh thái** là *một thước đo nhu cầu về các diện tích đất, nước có khả năng cho năng suất sinh học cần thiết để cung cấp thực phẩm, gỗ cho con người, bề mặt xây dựng cơ sở hạ tầng, diện tích hấp thụ cacbon điôxít, khả năng chứa đựng và đồng hóa chất thải.* )
 
