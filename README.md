@@ -2,7 +2,7 @@
 
 ## **_Không khí_**
 
-### **_Nguồn ô nhiễm không khí từ hoạt động công nghiệp_**
+### **Nguồn ô nhiễm không khí từ hoạt động công nghiệp**
 
 Ngành công nghiệp: Đây là nguồn gây ô nhiễm lớn nhất do con người gây ra. Quá trình gây ô nhiễm là quá trình đốt cháy các nhiên liệu hóa thạch như than, dầu, khí đốt tạo ra các chất khí độc hại (CO2, CO, SO2, NOx, các chất hữu cơ chưa cháy hết: muội than, bụi). Nguồn công nghiệp có nồng độ độc hại cao, tập trung ở một không gian nhỏ, và tùy thuộc vào quy mô sản xuất và nhiên liệu sử dụng thì lượng chất độc hại và loại chất độc hại sẽ khác nhau.
 
@@ -10,7 +10,7 @@ Giao thông vận tải: Đây cũng là nguồn gây ô nhiễm lớn đối v�
 
 Sinh hoạt: Chủ yếu do hoạt động đun nấu sử dụng nhiên liệu tạo ra các khí độc hại gây ô nhiễm cục bộ trong hộ gia đình và các hộ xung quanh.  
 
-### **_Hiện trạng ô nhiễm môi trường không khí_**
+### **Hiện trạng ô nhiễm môi trường không khí**
 
 Ô nhiễm bụi:
 
@@ -44,7 +44,7 @@ Mưa axít (lắng đọng axít):
 
 - Nhìn chung, ở nước ta đã xuất hiện các dấu hiệu của mưa axít, tỷ lệ số trận mưa có pH < 5,5 ở các tỉnh miền Đông Nam Bộ lớn hơn các vùng khác, tuy rằng nguồn gốc chưa được xác định rõ (Bảng V.3). Vì vậy cần phải tiếp tục quan trắc và phân tích mưa axít một cách cẩn thận.
 
-### **_Hậu quả của ô nhiễm không khí_**
+### **Hậu quả của ô nhiễm không khí**
 
 Đối với động – thực vật:
 
@@ -104,7 +104,7 @@ Mưa axít (lắng đọng axít):
 
 
 
-### **_Vậy làm cách nào để khắc phục tình trạng không khí đang bị ô nhiễm nặng nề, ảnh hưởng trực tiếp tới đời sống và sức khoẻ của con người?_**
+### **Vậy làm cách nào để khắc phục tình trạng không khí đang bị ô nhiễm nặng nề, ảnh hưởng trực tiếp tới đời sống và sức khoẻ của con người?**
 
 Biện pháp kỹ thuật:
 
@@ -134,13 +134,13 @@ Các hoạt động:
 
 ## **_Nước_**
 
-### **_Ô nhiễm nước là gì?_**
+### **Ô nhiễm nước là gì?**
 
 Môi trường nước ở nhiều đô thị, khu công nghiệp và làng nghề ngày càng bị ô nhiễm bởi nước thải, khí thải và chất thải rắn.
 
 Ở các thành phố lớn, hàng trăm cơ sở sản xuất công nghiệp đang gây ô nhiễm môi trường nước do không có công trình và thiết bị xử lý chất thải. Ô nhiễm nước do sản xuất công nghiệp là rất nặng.
 
-### **_Thực trạng ô nhiễm nước ở nước ta_**
+### **Thực trạng ô nhiễm nước ở nước ta**
 
 Tình trạng ô nhiễm nước ở các đô thị thấy rõ nhất là ở thành phố Hà Nội và thành phố Hồ Chí Minh.
 
@@ -163,7 +163,7 @@ Hậu quả:
 
 - Khi sử dụng nguồn nước ô nhiễm sẽ dẫn đến việc phát sinh rất nhiều mầm mống dịch bệnh. Hậu quả nặng nề nhất của tình trạng này chính là số người mắc bệnh viêm màng kết, ung thư, tiêu chảy ngày càng tăng cao, số lượng người chết tăng cao đặc biệt là đối tượng trẻ em ở các khu vực nguồn nước ô nhiễm.
 
-### **_Biện pháp khắc phục_**
+### **Biện pháp khắc phục**
 
 Nếu chiến lược lâu dài là đảm bảo cung cấp được nguồn nước an toàn đã qua xử lý hệ thống cho con người thì giải pháp khắc phục ngắn hạn là sử dụng các bộ lọc nước, sử dụng nước uống đun sôi tại trường học, hộ gia đình…
 
@@ -179,7 +179,7 @@ Tăng cường giám sát chất lượng môi trường nước để dự báo
 
 ## **_Đất_**
 
-### **_Thực trạng ô nhiễm đất ở nước ta_**
+### **Thực trạng ô nhiễm đất ở nước ta**
 
 Ở Việt Nam hiện nay có `33` triệu ha diên tích đất tự nhiên, trong đó diện tích đang sử dung là `22.226.830` ha, chiếm `68,83%` tổng quỹ đất. Còn `10.667.577` ha đất chưa sử dụng, chiếm `33,04%` diện tích đất tự nhiên. Đất nông nghiệp ít, chỉ có `8,146` triệu ha, chiếm `26,1%` diện tích đất tự nhiên.
 
@@ -193,7 +193,7 @@ Tăng cường giám sát chất lượng môi trường nước để dự báo
 
 Ô nhiễm đất do một số khí thải. Thường gặp nhất là SO2 hoặc HF do các nhà máy thải ra.
 
-### **_Biện pháp khắc phục_**
+### **Biện pháp khắc phục**
 
 Điều tra và phân tích đất Triển khai điều tra và phân tích đất bị ô nhiễm. Ðịnh ra tiêu chuẩn đánh giá ô nhiễm. Ðây là một trong những công tác cơ bản đánh giá đất, phòng ngừa phát sinh và phát triển ô nhiễm đất. Ðiều tra ô nhiễm đất là tìm hiểu trạng thái ô nhiễm và đánh giá mức độ ô nhiễm.
 
@@ -207,7 +207,7 @@ Thực hiện luật bảo vệ môi trường.
 
 ## **_Sinh thái_**
 
-### **_Thực trạng mất cân bằng sinh thái ở Việt Nam_**
+### **Thực trạng mất cân bằng sinh thái ở Việt Nam**
 
 Tại nước ta, tình trạng mất cân bằng sinh thái đang có những diễn biến nghiêm trọng:
 
@@ -224,7 +224,7 @@ Tại nước ta, tình trạng mất cân bằng sinh thái đang có những d
 - Dấu chân sinh thái của Việt Nam đã tăng lên đáng kể trong những năm gần đây, từ `1,0 gha/đầu người` năm 2000 tới `1,4 gha/đầu người` năm 2012 và `1,62 gha/đầu người` năm 2014. Xu hướng này chắc chắn sẽ tiếp tục tăng lên nếu không có những giải pháp thích hợp. ( **Dấu chân sinh thái** là *một thước đo nhu cầu về các diện tích đất, nước có khả năng cho năng suất sinh học cần thiết để cung cấp thực phẩm, gỗ cho con người, bề mặt xây dựng cơ sở hạ tầng, diện tích hấp thụ cacbon điôxít, khả năng chứa đựng và đồng hóa chất thải.* )
 
 
-### **_Các nguyên nhân gây ra sự mất cân bằng sinh thái ở Việt Nam_**
+### **Các nguyên nhân gây ra sự mất cân bằng sinh thái ở Việt Nam**
 
 Tình trạng mất cân bằng sinh thái môi trường biểu hiện ở sự gia tăng các thiên tai bão lụt, hạn hán và sự biến đổi bất thường về thời tiết, khí hậu.
 
@@ -236,7 +236,7 @@ Ví dụ điển hình là phá rừng khiến:
 - Làm khí hậu Trái Đât nóng lên
 - Mất nơi sinh sống của nhiều loài động vật (*Ví dụ về một số loài sẽ ở mục tiếp theo*)
 
-### **_Danh mục sách đỏ động vật Việt Nam_**
+### **Danh mục sách đỏ động vật Việt Nam**
 
 Danh mục sách đỏ động vật Việt Nam bao gồm các loài động vật có trong Sách đỏ Việt Nam dưới các mức độ đe dọa khác nhau. Trong số đó là các loài động vật chỉ tìm thấy duy nhất trên lãnh thổ Việt Nam, không tìm thấy ở nơi khác trên thế giới như:
 
@@ -250,7 +250,7 @@ Danh mục sách đỏ động vật Việt Nam bao gồm các loài động v�
 - Mang Trường Sơn (*Muntiacus truongsonensis*)
 - Sao la (*Pseudoryx nghetinhensis*)
 
-### **_Giải pháp cho vấn đề mất cân bằng sinh thái ở nước ta_**
+### **Giải pháp cho vấn đề mất cân bằng sinh thái ở nước ta**
 
 Bảo vệ rừng:
 
@@ -272,7 +272,7 @@ Sử dụng các nguồn nhiên liệu sạch nhằm làm giảm dấu chân sin
 
 ## **_Âm thanh_**
 
-### **_Thực trạng ô nhiễm tiếng ồn ở Việt Nam_**
+### **Thực trạng ô nhiễm tiếng ồn ở Việt Nam**
 
 Không chỉ là những vấn đề liên quan đến không khí, nước, hay đa dạng sinh học, ô nhiễm tiếng ồn cũng là một vấn đề đáng quan tâm và có tác động rõ ràng trong những năm gần đây nhất là các khu công nghiệp và khu nội đô thành phố.
 
@@ -286,7 +286,7 @@ VD:
 - Ô nhiễm tiếng ồn có thể gây tăng huyết áp, căng thẳng, ù tai, giảm thính lực, rối loạn giấc ngủ… Không chỉ tác động đến con người mà nó cũng khiến cho hoạt động của các động vật bị thay đổi dẫn đến mất cân bằng sinh học, gây khó khăn trong việc duy trì giống loài, dẫn đến sự tuyệt chủng của một số loài
 - Chim sẻ vằn trở nên ít trung thành với bạn tình hơn khi tiếp xúc với tiếng ồn giao thông. Điều này có thể làm thay đổi quy luật tiến hóa của một loài động vật, dẫn đến những hậu quả nghiêm trọng đến di truyền và tiến hóa
 
-### **_Biện pháp giảm thiểu tiếng ồn_**
+### **Biện pháp giảm thiểu tiếng ồn**
 
 Sử dụng các rào chắn tiếng ồn.
 
@@ -306,11 +306,11 @@ Các mục tiêu phát triển bền vững thường nhằm đạt được nh�
 
 ## **_Tài nguyên khoáng sản_**
 
-### **_Khoáng sản là gì?_**
+### **Khoáng sản là gì?**
 
 Khoáng sản là tài nguyên không tái tạo, tiềm năng khoáng sản của nước ta có hạn, vậy thế hệ ngày nay khai thác tài nguyên này tới đâu, gia tăng hay giảm quy mô khai thác, có trách nhiệm gì và có dành phần khoáng sản lại cho các thế hệ mai sau là đều cần quan tâm.
 
-### **_Sử dụng tài nguyên khoáng sản như thế nào cho hợp lý?_**
+### **Sử dụng tài nguyên khoáng sản như thế nào cho hợp lý?**
 
 Một trong những nguyên tắc cơ bản của phát triển bền vững là: “Trong khi đạt tới điều kiện và chất lượng cuộc sống tối ưu cho con người đương đại, sự phát triển hiện tại không được làm tổn hại tới tiềm năng thỏa mãn nhu cầu cuộc sống của thế hệ mai sau”.
  
